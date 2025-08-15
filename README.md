@@ -8,7 +8,7 @@ This ABAP project dynamically calculates current production capacity by combinin
 The system processes this data to determine how many units can be produced based on current stock levels, and displays the results in an interactive ALV Grid enriched with icons, colors, and navigation features for quick decision-making.
 ### IDEA CHART
 ---
-![Main Screen](readme-images/main_screen.png)
+![Image](https://github.com/user-attachments/assets/65734458-33bf-4b63-9b2c-027499682b2d)
 
 ### Core Features
 
