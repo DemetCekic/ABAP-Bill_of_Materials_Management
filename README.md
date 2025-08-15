@@ -63,6 +63,11 @@ The system processes this data to determine how many units can be produced based
   - Popup Screen (0200): Stock List (ALV).
   - Popup Screen (0300): BOM List (ALV).
 
+## How To Run
+ 
+1.  Load the `ZDC_BOM_MANAGEMENT` program via SE38/SE80.
+2.  Create the relevant data tables ( `ZDC_BOM2_DT`, `ZDC_STOCK_DT`).
+3.  Run the program to access the main screen.
 
 ## Screenshots
 
